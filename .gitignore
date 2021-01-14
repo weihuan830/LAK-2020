@@ -1,3 +1,4 @@
+frontend/*
 frontend/node_modules
 backend/datafile
 backend/cache

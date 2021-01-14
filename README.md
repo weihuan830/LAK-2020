@@ -1,11 +1,5 @@
 # LAK-2020
 
-
-### Backend
-
-Data processor,
-
-
 ### System overview
 The prediction framework contains three modules:
 data collection & preprocessing module, feature extraction
